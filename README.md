@@ -1,4 +1,7 @@
-# test coverage for  [express-favicon (v2.0.0)](https://github.com/song940/express-favicon)  [![npm package](https://img.shields.io/npm/v/npmtest-express-favicon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-favicon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-favicon.svg)](https://travis-ci.org/npmtest/node-npmtest-express-favicon)
+# npmtest-express-favicon
+
+#### basic test coverage for  [express-favicon (v2.0.0)](https://github.com/song940/express-favicon)  [![npm package](https://img.shields.io/npm/v/npmtest-express-favicon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-favicon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-favicon.svg)](https://travis-ci.org/npmtest/node-npmtest-express-favicon)
+
 #### express favicon
 
 [![NPM](https://nodei.co/npm/express-favicon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-favicon)
@@ -85,7 +88,8 @@
     "scripts": {
         "test": "node test/test.js"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
